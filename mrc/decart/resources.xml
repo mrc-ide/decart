@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<db>
+  <d type="pop" name="CIA Factbook 2013">
+    <c id="0" pop="31108077" name="Afghanistan"/>
+    <c id="1" pop="15700" name="Akrotiri"/>
+    <c id="2" pop="3011405" name="Albania"/>
+    <c id="3" pop="38087812" name="Algeria"/>
+    <c id="4" pop="54719" name="American Samoa"/>
+    <c id="5" pop="85293" name="Andorra"/>
+    <c id="6" pop="18565269" name="Angola"/>
+    <c id="7" pop="15754" name="Anguilla"/>
+    <c id="8" pop="90156" name="Antigua and Barbuda"/>
+    <c id="9" pop="42610981" name="Argentina"/>
+    <c id="10" pop="2974184" name="Armenia"/>
+    <c id="11" pop="109153" name="Aruba"/>
+    <c id="12" pop="22262501" name="Australia"/>
+    <c id="13" pop="8221646" name="Austria"/>
+    <c id="14" pop="9590159" name="Azerbaijan"/>
+    <c id="15" pop="319031" name="Bahamas, The"/>
+    <c id="16" pop="1281332" name="Bahrain"/>
+    <c id="17" pop="163654860" name="Bangladesh"/>
+    <c id="18" pop="288725" name="Barbados"/>
+    <c id="19" pop="9625888" name="Belarus"/>
+    <c id="20" pop="10444268" name="Belgium"/>
+    <c id="21" pop="334297" name="Belize"/>
+    <c id="22" pop="9877292" name="Benin"/>
+    <c id="23" pop="69467" name="Bermuda"/>
+    <c id="24" pop="725296" name="Bhutan"/>
+    <c id="25" pop="10461053" name="Bolivia"/>
+    <c id="26" pop="3875723" name="Bosnia and Herzegovina"/>
+    <c id="27" pop="2127825" name="Botswana"/>
+    <c id="28" pop="201009622" name="Brazil"/>
+    <c id="29" pop="31912" name="British Virgin Islands"/>
+    <c id="30" pop="415717" name="Brunei"/>
+    <c id="31" pop="6981642" name="Bulgaria"/>
+    <c id="32" pop="17812961" name="Burkina Faso"/>
+    <c id="33" pop="55167330" name="Burma"/>
+    <c id="34" pop="10888321" name="Burundi"/>
+    <c id="35" pop="531046" name="Cabo Verde"/>
+    <c id="36" pop="15205539" name="Cambodia"/>
+    <c id="37" pop="20549221" name="Cameroon"/>
+    <c id="38" pop="34568211" name="Canada"/>
+    <c id="39" pop="53737" name="Cayman Islands"/>
+    <c id="40" pop="5166510" name="Central African Republic"/>
+    <c id="41" pop="11193452" name="Chad"/>
+    <c id="42" pop="17216945" name="Chile"/>
+    <c id="43" pop="1349585838" name="China"/>
+    <c id="44" pop="1513" name="Christmas Island"/>
+    <c id="45" pop="596" name="Cocos (Keeling) Islands"/>
+    <c id="46" pop="45745783" name="Colombia"/>
+    <c id="47" pop="752288" name="Comoros"/>
+    <c id="48" pop="75507308" name="Congo, Democratic Republic of the"/>
+    <c id="49" pop="4492689" name="Congo, Republic of the"/>
+    <c id="50" pop="10447" name="Cook Islands"/>
+    <c id="51" pop="4695942" name="Costa Rica"/>
+    <c id="52" pop="22400835" name="Cote d'Ivoire"/>
+    <c id="53" pop="4475611" name="Croatia"/>
+    <c id="54" pop="11061886" name="Cuba"/>
+    <c id="55" pop="146836" name="Curacao"/>
+    <c id="56" pop="1155403" name="Cyprus"/>
+    <c id="57" pop="10162921" name="Czech Republic"/>
+    <c id="58" pop="5556452" name="Denmark"/>
+    <c id="59" pop="15700" name="Dhekelia"/>
+    <c id="60" pop="792198" name="Djibouti"/>
+    <c id="61" pop="73286" name="Dominica"/>
+    <c id="62" pop="10219630" name="Dominican Republic"/>
+    <c id="63" pop="15439429" name="Ecuador"/>
+    <c id="64" pop="85294388" name="Egypt"/>
+    <c id="65" pop="6108590" name="El Salvador"/>
+    <c id="66" pop="704001" name="Equatorial Guinea"/>
+    <c id="67" pop="6233682" name="Eritrea"/>
+    <c id="68" pop="1266375" name="Estonia"/>
+    <c id="69" pop="93877025" name="Ethiopia"/>
+    <c id="70" pop="509365627" name="European Union"/>
+    <c id="71" pop="3140" name="Falkland Islands (Islas Malvinas)"/>
+    <c id="72" pop="49709" name="Faroe Islands"/>
+    <c id="73" pop="896758" name="Fiji"/>
+    <c id="74" pop="5266114" name="Finland"/>
+    <c id="75" pop="65951611" name="France"/>
+    <c id="76" pop="277293" name="French Polynesia"/>
+    <c id="77" pop="1640286" name="Gabon"/>
+    <c id="78" pop="1883051" name="Gambia, The"/>
+    <c id="79" pop="1763387" name="Gaza Strip"/>
+    <c id="80" pop="4555911" name="Georgia"/>
+    <c id="81" pop="81147265" name="Germany"/>
+    <c id="82" pop="25199609" name="Ghana"/>
+    <c id="83" pop="29111" name="Gibraltar"/>
+    <c id="84" pop="10772967" name="Greece"/>
+    <c id="85" pop="57714" name="Greenland"/>
+    <c id="86" pop="109590" name="Grenada"/>
+    <c id="87" pop="160378" name="Guam"/>
+    <c id="88" pop="14373472" name="Guatemala"/>
+    <c id="89" pop="65605" name="Guernsey"/>
+    <c id="90" pop="11176026" name="Guinea"/>
+    <c id="91" pop="1660870" name="Guinea-Bissau"/>
+    <c id="92" pop="739903" name="Guyana"/>
+    <c id="93" pop="9893934" name="Haiti"/>
+    <c id="94" pop="839" name="Holy See (Vatican City)"/>
+    <c id="95" pop="8448465" name="Honduras"/>
+    <c id="96" pop="7182724" name="Hong Kong"/>
+    <c id="97" pop="9939470" name="Hungary"/>
+    <c id="98" pop="315281" name="Iceland"/>
+    <c id="99" pop="1220800359" name="India"/>
+    <c id="100" pop="251160124" name="Indonesia"/>
+    <c id="101" pop="79853900" name="Iran"/>
+    <c id="102" pop="31858481" name="Iraq"/>
+    <c id="103" pop="4775982" name="Ireland"/>
+    <c id="104" pop="86159" name="Isle of Man"/>
+    <c id="105" pop="7707042" name="Israel"/>
+    <c id="106" pop="61482297" name="Italy"/>
+    <c id="107" pop="2909714" name="Jamaica"/>
+    <c id="108" pop="127253075" name="Japan"/>
+    <c id="109" pop="95732" name="Jersey"/>
+    <c id="110" pop="6482081" name="Jordan"/>
+    <c id="111" pop="17736896" name="Kazakhstan"/>
+    <c id="112" pop="44037656" name="Kenya"/>
+    <c id="113" pop="103248" name="Kiribati"/>
+    <c id="114" pop="24720407" name="Korea, North"/>
+    <c id="115" pop="48955203" name="Korea, South"/>
+    <c id="116" pop="1847708" name="Kosovo"/>
+    <c id="117" pop="2695316" name="Kuwait"/>
+    <c id="118" pop="5548042" name="Kyrgyzstan"/>
+    <c id="119" pop="6695166" name="Laos"/>
+    <c id="120" pop="2178443" name="Latvia"/>
+    <c id="121" pop="4131583" name="Lebanon"/>
+    <c id="122" pop="1936181" name="Lesotho"/>
+    <c id="123" pop="3989703" name="Liberia"/>
+    <c id="124" pop="6002347" name="Libya"/>
+    <c id="125" pop="37009" name="Liechtenstein"/>
+    <c id="126" pop="3515858" name="Lithuania"/>
+    <c id="127" pop="514862" name="Luxembourg"/>
+    <c id="128" pop="583003" name="Macau"/>
+    <c id="129" pop="2087171" name="Macedonia"/>
+    <c id="130" pop="22599098" name="Madagascar"/>
+    <c id="131" pop="16777547" name="Malawi"/>
+    <c id="132" pop="29628392" name="Malaysia"/>
+    <c id="133" pop="393988" name="Maldives"/>
+    <c id="134" pop="15968882" name="Mali"/>
+    <c id="135" pop="411277" name="Malta"/>
+    <c id="136" pop="69747" name="Marshall Islands"/>
+    <c id="137" pop="3437610" name="Mauritania"/>
+    <c id="138" pop="1322238" name="Mauritius"/>
+    <c id="139" pop="116220947" name="Mexico"/>
+    <c id="140" pop="106104" name="Micronesia, Federated States of"/>
+    <c id="141" pop="3619925" name="Moldova"/>
+    <c id="142" pop="30500" name="Monaco"/>
+    <c id="143" pop="3226516" name="Mongolia"/>
+    <c id="144" pop="653474" name="Montenegro"/>
+    <c id="145" pop="5189" name="Montserrat"/>
+    <c id="146" pop="32649130" name="Morocco"/>
+    <c id="147" pop="24096669" name="Mozambique"/>
+    <c id="148" pop="2182852" name="Namibia"/>
+    <c id="149" pop="9434" name="Nauru"/>
+    <c id="150" pop="30430267" name="Nepal"/>
+    <c id="151" pop="16805037" name="Netherlands"/>
+    <c id="152" pop="264022" name="New Caledonia"/>
+    <c id="153" pop="4365113" name="New Zealand"/>
+    <c id="154" pop="5788531" name="Nicaragua"/>
+    <c id="155" pop="16899327" name="Niger"/>
+    <c id="156" pop="174507539" name="Nigeria"/>
+    <c id="157" pop="1229" name="Niue"/>
+    <c id="158" pop="2196" name="Norfolk Island"/>
+    <c id="159" pop="51170" name="Northern Mariana Islands"/>
+    <c id="160" pop="4722701" name="Norway"/>
+    <c id="161" pop="3154134" name="Oman"/>
+    <c id="162" pop="193238868" name="Pakistan"/>
+    <c id="163" pop="21108" name="Palau"/>
+    <c id="164" pop="3559408" name="Panama"/>
+    <c id="165" pop="6431902" name="Papua New Guinea"/>
+    <c id="166" pop="6623252" name="Paraguay"/>
+    <c id="167" pop="29849303" name="Peru"/>
+    <c id="168" pop="105720644" name="Philippines"/>
+    <c id="169" pop="65" name="Pitcairn Islands"/>
+    <c id="170" pop="38383809" name="Poland"/>
+    <c id="171" pop="10799270" name="Portugal"/>
+    <c id="172" pop="3674209" name="Puerto Rico"/>
+    <c id="173" pop="2042444" name="Qatar"/>
+    <c id="174" pop="21790479" name="Romania"/>
+    <c id="175" pop="142500482" name="Russia"/>
+    <c id="176" pop="12012589" name="Rwanda"/>
+    <c id="177" pop="7298" name="Saint Barthelemy"/>
+    <c id="178" pop="7754" name="Saint Helena, Ascension, and Tristan da Cunha"/>
+    <c id="179" pop="51134" name="Saint Kitts and Nevis"/>
+    <c id="180" pop="162781" name="Saint Lucia"/>
+    <c id="181" pop="31264" name="Saint Martin"/>
+    <c id="182" pop="5774" name="Saint Pierre and Miquelon"/>
+    <c id="183" pop="103220" name="Saint Vincent and the Grenadines"/>
+    <c id="184" pop="195476" name="Samoa"/>
+    <c id="185" pop="32448" name="San Marino"/>
+    <c id="186" pop="186817" name="Sao Tome and Principe"/>
+    <c id="187" pop="26939583" name="Saudi Arabia"/>
+    <c id="188" pop="13300410" name="Senegal"/>
+    <c id="189" pop="7243007" name="Serbia"/>
+    <c id="190" pop="90846" name="Seychelles"/>
+    <c id="191" pop="5612685" name="Sierra Leone"/>
+    <c id="192" pop="5460302" name="Singapore"/>
+    <c id="193" pop="39689" name="Sint Maarten"/>
+    <c id="194" pop="5488339" name="Slovakia"/>
+    <c id="195" pop="1992690" name="Slovenia"/>
+    <c id="196" pop="597248" name="Solomon Islands"/>
+    <c id="197" pop="10251568" name="Somalia"/>
+    <c id="198" pop="48601098" name="South Africa"/>
+    <c id="199" pop="11090104" name="South Sudan"/>
+    <c id="200" pop="47370542" name="Spain"/>
+    <c id="201" pop="21675648" name="Sri Lanka"/>
+    <c id="202" pop="34847910" name="Sudan"/>
+    <c id="203" pop="566846" name="Suriname"/>
+    <c id="204" pop="1921" name="Svalbard"/>
+    <c id="205" pop="1403362" name="Swaziland"/>
+    <c id="206" pop="9119423" name="Sweden"/>
+    <c id="207" pop="7996026" name="Switzerland"/>
+    <c id="208" pop="22457336" name="Syria"/>
+    <c id="209" pop="23299716" name="Taiwan"/>
+    <c id="210" pop="7910041" name="Tajikistan"/>
+    <c id="211" pop="48261942" name="Tanzania"/>
+    <c id="212" pop="67448120" name="Thailand"/>
+    <c id="213" pop="1172390" name="Timor-Leste"/>
+    <c id="214" pop="7154237" name="Togo"/>
+    <c id="215" pop="1353" name="Tokelau"/>
+    <c id="216" pop="106322" name="Tonga"/>
+    <c id="217" pop="1225225" name="Trinidad and Tobago"/>
+    <c id="218" pop="10835873" name="Tunisia"/>
+    <c id="219" pop="80694485" name="Turkey"/>
+    <c id="220" pop="5113040" name="Turkmenistan"/>
+    <c id="221" pop="47754" name="Turks and Caicos Islands"/>
+    <c id="222" pop="10698" name="Tuvalu"/>
+    <c id="223" pop="34758809" name="Uganda"/>
+    <c id="224" pop="44573205" name="Ukraine"/>
+    <c id="225" pop="5473972" name="United Arab Emirates"/>
+    <c id="226" pop="63395574" name="United Kingdom"/>
+    <c id="227" pop="316668567" name="United States"/>
+    <c id="228" pop="3324460" name="Uruguay"/>
+    <c id="229" pop="28661637" name="Uzbekistan"/>
+    <c id="230" pop="261565" name="Vanuatu"/>
+    <c id="231" pop="28459085" name="Venezuela"/>
+    <c id="232" pop="92477857" name="Vietnam"/>
+    <c id="233" pop="104737" name="Virgin Islands"/>
+    <c id="234" pop="15507" name="Wallis and Futuna"/>
+    <c id="235" pop="2676740" name="West Bank"/>
+    <c id="236" pop="538811" name="Western Sahara"/>
+    <c id="237" pop="25408288" name="Yemen"/>
+    <c id="238" pop="14222233" name="Zambia"/>
+    <c id="239" pop="13182908" name="Zimbabwe"/>
+  </d>
+   <d type="pop" name="CIA Factbook 2014">
+    <c id="0" pop="31822848" name="Afghanistan"/>
+    <c id="1" pop="15700" name="Akrotiri"/>
+    <c id="2" pop="3020209" name="Albania"/>
+    <c id="3" pop="38813722" name="Algeria"/>
+    <c id="4" pop="54517" name="American Samoa"/>
+    <c id="5" pop="85458" name="Andorra"/>
+    <c id="6" pop="19088106" name="Angola"/>
+    <c id="7" pop="16086" name="Anguilla"/>
+    <c id="8" pop="91295" name="Antigua and Barbuda"/>
+    <c id="9" pop="43024374" name="Argentina"/>
+    <c id="10" pop="3060631" name="Armenia"/>
+    <c id="11" pop="110663" name="Aruba"/>
+    <c id="12" pop="22507617" name="Australia"/>
+    <c id="13" pop="8223062" name="Austria"/>
+    <c id="14" pop="9686210" name="Azerbaijan"/>
+    <c id="15" pop="321834" name="Bahamas, The"/>
+    <c id="16" pop="1314089" name="Bahrain"/>
+    <c id="17" pop="166280712" name="Bangladesh"/>
+    <c id="18" pop="289680" name="Barbados"/>
+    <c id="19" pop="9608058" name="Belarus"/>
+    <c id="20" pop="10449361" name="Belgium"/>
+    <c id="21" pop="340844" name="Belize"/>
+    <c id="22" pop="10160556" name="Benin"/>
+    <c id="23" pop="69839" name="Bermuda"/>
+    <c id="24" pop="733643" name="Bhutan"/>
+    <c id="25" pop="10631486" name="Bolivia"/>
+    <c id="26" pop="3871643" name="Bosnia and Herzegovina"/>
+    <c id="27" pop="2155784" name="Botswana"/>
+    <c id="28" pop="202656788" name="Brazil"/>
+    <c id="29" pop="32680" name="British Virgin Islands"/>
+    <c id="30" pop="422675" name="Brunei"/>
+    <c id="31" pop="6924716" name="Bulgaria"/>
+    <c id="32" pop="18365123" name="Burkina Faso"/>
+    <c id="33" pop="55746253" name="Burma"/>
+    <c id="34" pop="10395931" name="Burundi"/>
+    <c id="35" pop="538535" name="Cabo Verde"/>
+    <c id="36" pop="15458332" name="Cambodia"/>
+    <c id="37" pop="23130708" name="Cameroon"/>
+    <c id="38" pop="34834841" name="Canada"/>
+    <c id="39" pop="54914" name="Cayman Islands"/>
+    <c id="40" pop="5277959" name="Central African Republic"/>
+    <c id="41" pop="11412107" name="Chad"/>
+    <c id="42" pop="17363894" name="Chile"/>
+    <c id="43" pop="1355692576" name="China"/>
+    <c id="44" pop="1530" name="Christmas Island"/>
+    <c id="45" pop="596" name="Cocos (Keeling) Islands"/>
+    <c id="46" pop="46245297" name="Colombia"/>
+    <c id="47" pop="766865" name="Comoros"/>
+    <c id="48" pop="77433744" name="Congo, Democratic Republic of the"/>
+    <c id="49" pop="4662446" name="Congo, Republic of the"/>
+    <c id="50" pop="10134" name="Cook Islands"/>
+    <c id="51" pop="4755234" name="Costa Rica"/>
+    <c id="52" pop="22848945" name="Cote d'Ivoire"/>
+    <c id="53" pop="4470534" name="Croatia"/>
+    <c id="54" pop="11047251" name="Cuba"/>
+    <c id="55" pop="146836" name="Curacao"/>
+    <c id="56" pop="1172458" name="Cyprus"/>
+    <c id="57" pop="10627448" name="Czech Republic"/>
+    <c id="58" pop="5569077" name="Denmark"/>
+    <c id="59" pop="15700" name="Dhekelia"/>
+    <c id="60" pop="810179" name="Djibouti"/>
+    <c id="61" pop="73449" name="Dominica"/>
+    <c id="62" pop="10349741" name="Dominican Republic"/>
+    <c id="63" pop="15654411" name="Ecuador"/>
+    <c id="64" pop="86895099" name="Egypt"/>
+    <c id="65" pop="6125512" name="El Salvador"/>
+    <c id="66" pop="722254" name="Equatorial Guinea"/>
+    <c id="67" pop="6380803" name="Eritrea"/>
+    <c id="68" pop="1257921" name="Estonia"/>
+    <c id="69" pop="96633458" name="Ethiopia"/>
+    <c id="70" pop="509365627" name="European Union"/>
+    <c id="71" pop="3140" name="Falkland Islands (Islas Malvinas)"/>
+    <c id="72" pop="49947" name="Faroe Islands"/>
+    <c id="73" pop="903207" name="Fiji"/>
+    <c id="74" pop="5268799" name="Finland"/>
+    <c id="75" pop="66259012" name="France"/>
+    <c id="76" pop="280026" name="French Polynesia"/>
+    <c id="77" pop="1672597" name="Gabon"/>
+    <c id="78" pop="1925527" name="Gambia, The"/>
+    <c id="79" pop="1816379" name="Gaza Strip"/>
+    <c id="80" pop="4935880" name="Georgia"/>
+    <c id="81" pop="80996685" name="Germany"/>
+    <c id="82" pop="25758108" name="Ghana"/>
+    <c id="83" pop="29185" name="Gibraltar"/>
+    <c id="84" pop="10775557" name="Greece"/>
+    <c id="85" pop="57728" name="Greenland"/>
+    <c id="86" pop="110152" name="Grenada"/>
+    <c id="87" pop="161001" name="Guam"/>
+    <c id="88" pop="14647083" name="Guatemala"/>
+    <c id="89" pop="65849" name="Guernsey"/>
+    <c id="90" pop="11474383" name="Guinea"/>
+    <c id="91" pop="1693398" name="Guinea-Bissau"/>
+    <c id="92" pop="735554" name="Guyana"/>
+    <c id="93" pop="9996731" name="Haiti"/>
+    <c id="94" pop="842" name="Holy See (Vatican City)"/>
+    <c id="95" pop="8598561" name="Honduras"/>
+    <c id="96" pop="7112688" name="Hong Kong"/>
+    <c id="97" pop="9919128" name="Hungary"/>
+    <c id="98" pop="317351" name="Iceland"/>
+    <c id="99" pop="1236344631" name="India"/>
+    <c id="100" pop="253609643" name="Indonesia"/>
+    <c id="101" pop="80840713" name="Iran"/>
+    <c id="102" pop="32585692" name="Iraq"/>
+    <c id="103" pop="4832765" name="Ireland"/>
+    <c id="104" pop="86866" name="Isle of Man"/>
+    <c id="105" pop="7821850" name="Israel"/>
+    <c id="106" pop="61680122" name="Italy"/>
+    <c id="107" pop="2930050" name="Jamaica"/>
+    <c id="108" pop="127103388" name="Japan"/>
+    <c id="109" pop="96513" name="Jersey"/>
+    <c id="110" pop="7930491" name="Jordan"/>
+    <c id="111" pop="17948816" name="Kazakhstan"/>
+    <c id="112" pop="45010056" name="Kenya"/>
+    <c id="113" pop="104488" name="Kiribati"/>
+    <c id="114" pop="24851627" name="Korea, North"/>
+    <c id="115" pop="49039986" name="Korea, South"/>
+    <c id="116" pop="1859203" name="Kosovo"/>
+    <c id="117" pop="2742711" name="Kuwait"/>
+    <c id="118" pop="5604212" name="Kyrgyzstan"/>
+    <c id="119" pop="6803699" name="Laos"/>
+    <c id="120" pop="2165165" name="Latvia"/>
+    <c id="121" pop="5882562" name="Lebanon"/>
+    <c id="122" pop="1942008" name="Lesotho"/>
+    <c id="123" pop="4092310" name="Liberia"/>
+    <c id="124" pop="6244174" name="Libya"/>
+    <c id="125" pop="37313" name="Liechtenstein"/>
+    <c id="126" pop="3505738" name="Lithuania"/>
+    <c id="127" pop="520672" name="Luxembourg"/>
+    <c id="128" pop="587914" name="Macau"/>
+    <c id="129" pop="2091719" name="Macedonia"/>
+    <c id="130" pop="23201926" name="Madagascar"/>
+    <c id="131" pop="17377468" name="Malawi"/>
+    <c id="132" pop="30073353" name="Malaysia"/>
+    <c id="133" pop="393595" name="Maldives"/>
+    <c id="134" pop="16455903" name="Mali"/>
+    <c id="135" pop="412655" name="Malta"/>
+    <c id="136" pop="70983" name="Marshall Islands"/>
+    <c id="137" pop="3516806" name="Mauritania"/>
+    <c id="138" pop="1331155" name="Mauritius"/>
+    <c id="139" pop="120286655" name="Mexico"/>
+    <c id="140" pop="105681" name="Micronesia, Federated States of"/>
+    <c id="141" pop="3583288" name="Moldova"/>
+    <c id="142" pop="30508" name="Monaco"/>
+    <c id="143" pop="2953190" name="Mongolia"/>
+    <c id="144" pop="650036" name="Montenegro"/>
+    <c id="145" pop="5215" name="Montserrat"/>
+    <c id="146" pop="32987206" name="Morocco"/>
+    <c id="147" pop="24692144" name="Mozambique"/>
+    <c id="148" pop="2198406" name="Namibia"/>
+    <c id="149" pop="9488" name="Nauru"/>
+    <c id="150" pop="30986975" name="Nepal"/>
+    <c id="151" pop="16877351" name="Netherlands"/>
+    <c id="152" pop="267840" name="New Caledonia"/>
+    <c id="153" pop="4401916" name="New Zealand"/>
+    <c id="154" pop="5848641" name="Nicaragua"/>
+    <c id="155" pop="17466172" name="Niger"/>
+    <c id="156" pop="177155754" name="Nigeria"/>
+    <c id="157" pop="1190" name="Niue"/>
+    <c id="158" pop="2210" name="Norfolk Island"/>
+    <c id="159" pop="51483" name="Northern Mariana Islands"/>
+    <c id="160" pop="5147792" name="Norway"/>
+    <c id="161" pop="3219775" name="Oman"/>
+    <c id="162" pop="196174380" name="Pakistan"/>
+    <c id="163" pop="21186" name="Palau"/>
+    <c id="164" pop="3608431" name="Panama"/>
+    <c id="165" pop="6552730" name="Papua New Guinea"/>
+    <c id="166" pop="6703860" name="Paraguay"/>
+    <c id="167" pop="30147935" name="Peru"/>
+    <c id="168" pop="107668231" name="Philippines"/>
+    <c id="169" pop="48" name="Pitcairn Islands"/>
+    <c id="170" pop="38346279" name="Poland"/>
+    <c id="171" pop="10813834" name="Portugal"/>
+    <c id="172" pop="3620897" name="Puerto Rico"/>
+    <c id="173" pop="2123160" name="Qatar"/>
+    <c id="174" pop="21729871" name="Romania"/>
+    <c id="175" pop="142470272" name="Russia"/>
+    <c id="176" pop="12337138" name="Rwanda"/>
+    <c id="177" pop="7267" name="Saint Barthelemy"/>
+    <c id="178" pop="7776" name="Saint Helena, Ascension, and Tristan da Cunha"/>
+    <c id="179" pop="51538" name="Saint Kitts and Nevis"/>
+    <c id="180" pop="163362" name="Saint Lucia"/>
+    <c id="181" pop="31530" name="Saint Martin"/>
+    <c id="182" pop="5716" name="Saint Pierre and Miquelon"/>
+    <c id="183" pop="102918" name="Saint Vincent and the Grenadines"/>
+    <c id="184" pop="196628" name="Samoa"/>
+    <c id="185" pop="32742" name="San Marino"/>
+    <c id="186" pop="190428" name="Sao Tome and Principe"/>
+    <c id="187" pop="27345986" name="Saudi Arabia"/>
+    <c id="188" pop="13635927" name="Senegal"/>
+    <c id="189" pop="7209764" name="Serbia"/>
+    <c id="190" pop="91650" name="Seychelles"/>
+    <c id="191" pop="5743725" name="Sierra Leone"/>
+    <c id="192" pop="5567301" name="Singapore"/>
+    <c id="193" pop="39689" name="Sint Maarten"/>
+    <c id="194" pop="5443583" name="Slovakia"/>
+    <c id="195" pop="1988292" name="Slovenia"/>
+    <c id="196" pop="609883" name="Solomon Islands"/>
+    <c id="197" pop="10428043" name="Somalia"/>
+    <c id="198" pop="48375645" name="South Africa"/>
+    <c id="199" pop="11562695" name="South Sudan"/>
+    <c id="200" pop="47737941" name="Spain"/>
+    <c id="201" pop="21866445" name="Sri Lanka"/>
+    <c id="202" pop="35482233" name="Sudan"/>
+    <c id="203" pop="573311" name="Suriname"/>
+    <c id="204" pop="1872" name="Svalbard"/>
+    <c id="205" pop="1419623" name="Swaziland"/>
+    <c id="206" pop="9723809" name="Sweden"/>
+    <c id="207" pop="8061516" name="Switzerland"/>
+    <c id="208" pop="17951639" name="Syria"/>
+    <c id="209" pop="23359928" name="Taiwan"/>
+    <c id="210" pop="8051512" name="Tajikistan"/>
+    <c id="211" pop="49639138" name="Tanzania"/>
+    <c id="212" pop="67741401" name="Thailand"/>
+    <c id="213" pop="1201542" name="Timor-Leste"/>
+    <c id="214" pop="7351374" name="Togo"/>
+    <c id="215" pop="1337" name="Tokelau"/>
+    <c id="216" pop="106440" name="Tonga"/>
+    <c id="217" pop="1223916" name="Trinidad and Tobago"/>
+    <c id="218" pop="10937521" name="Tunisia"/>
+    <c id="219" pop="81619392" name="Turkey"/>
+    <c id="220" pop="5171943" name="Turkmenistan"/>
+    <c id="221" pop="49070" name="Turks and Caicos Islands"/>
+    <c id="222" pop="10782" name="Tuvalu"/>
+    <c id="223" pop="35918915" name="Uganda"/>
+    <c id="224" pop="44291413" name="Ukraine"/>
+    <c id="225" pop="5628805" name="United Arab Emirates"/>
+    <c id="226" pop="63742977" name="United Kingdom"/>
+    <c id="227" pop="318892103" name="United States"/>
+    <c id="228" pop="3332972" name="Uruguay"/>
+    <c id="229" pop="28929716" name="Uzbekistan"/>
+    <c id="230" pop="266937" name="Vanuatu"/>
+    <c id="231" pop="28868486" name="Venezuela"/>
+    <c id="232" pop="93421835" name="Vietnam"/>
+    <c id="233" pop="104170" name="Virgin Islands"/>
+    <c id="234" pop="15561" name="Wallis and Futuna"/>
+    <c id="235" pop="2731052" name="West Bank"/>
+    <c id="236" pop="554795" name="Western Sahara"/>
+    <c id="237" pop="26052966" name="Yemen"/>
+    <c id="238" pop="14638505" name="Zambia"/>
+    <c id="239" pop="13771721" name="Zimbabwe"/>
+  </d>
+</db>

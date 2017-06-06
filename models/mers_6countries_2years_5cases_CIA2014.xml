@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model>
+  <params>
+    <startdate day="1" month="4" year="2012" />
+    <enddate day="31" month="3" year="2014" />
+  </params>
+  <sources no="6">
+    <source no="0" name="Jordan" pop="6482081"/>
+    <source no="1" name="Kuwait" pop="2742711"/>
+    <source no="2" name="Oman" pop="3219775"/>
+    <source no="3" name="Qatar" pop="2042444"/>
+    <source no="4" name="Saudi Arabia" pop="26939583"/>
+    <source no="5" name="United Arab Emirates" pop="5473972"/>
+  </sources>
+  <recipients no="1">
+    <recipient no="0" name="Non Middle East" intros="5"/>
+  </recipients>
+  <tmatrix period="annual" periodlength="365" no="1">
+    <row no="0" data="2066000,2140000,828000,1699000,6399000,5786315" />
+  </tmatrix>
+  <durstay no="1">
+    <row no="0" data="4.0,4.0,4.0,4.0,4.0,4.0" />
+  </durstay>
+</model>
